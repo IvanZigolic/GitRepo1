@@ -1,3 +1,5 @@
 Treca
 
 NOVA GRANA - dodatak
+
+VJEZBA - Promjenjen treci.txt
